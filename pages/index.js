@@ -28,7 +28,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       <Header />
       <Hero />
       <section className='bg-cf-blue pt-14 px-5 md:px-10 lg:px-20'>
-        <h1 className='text-3xl md:text-4xl lg:text-5xl leading-[2rem] md:leading-[2.5rem] font-universe font-bold text-white'>ACT NOW. Tell D.C. Leaders: Don't replace CareFirst with a plan that has a history of under-serving enrollees and overcharging the District.</h1>
+        <h1 className='text-3xl md:text-4xl lg:text-5xl leading-[2rem] md:leading-[2.5rem] font-universe font-bold text-white'>ACT NOW. Tell D.C. Leaders: Don&apos;t replace CareFirst with a plan that has a history of under-serving enrollees and overcharging the District.</h1>
       </section>
       <VoterVoice />
       <Footer />
