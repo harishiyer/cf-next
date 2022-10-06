@@ -46,7 +46,7 @@ const Footer = () => {
                 </ul>
             </div>
 
-            <div className={[showDisclaimer ? 'bottom-0 ' : 'bottom-[-100%] ', ' fixed w-full px-5 md:px-10 lg:px-20 bg-cf-blue pt-10 pb-8 text-sm bottom-0 ease-in-out transition-all duration-500']}>
+            <div className={[showDisclaimer ? 'bottom-0 ' : 'md:bottom-[-100%] bottom-[-150%] ', ' fixed w-full px-5 md:px-10 lg:px-20 bg-cf-blue pt-10 pb-8 text-sm bottom-0 ease-in-out transition-all duration-500']}>
                 <div className='h-8 relative'>
                     <button className='absolute right-0 text-lg hover:scale-150 transition-all' onClick={() => setShowDisclaimer(false)}><AiOutlineClose /></button>
                 </div>
