@@ -33,7 +33,7 @@ const Header = () => {
             </div>
             <div className={`${offset > 0 ? 'mt-0' : 'mt-6'} mx-auto md:ml-auto md:mr-0 ml-auto md:mt-0 transition-all duration-500`}>
                 <Link href='#take-action'>
-                    <a id='take-action' className='py-3 md:py-4 px-10 rounded-md text-white text-xl md:text-2xl font-universe font-bold uppercase block bg-cf-yellow'>Contact D.C. Leaders</a>
+                    <a id='take-action-btn' className='py-3 md:py-4 px-10 rounded-md text-white text-xl md:text-2xl font-universe font-bold uppercase block bg-cf-yellow'>Contact D.C. Leaders</a>
                 </Link>
             </div>
         </nav>
